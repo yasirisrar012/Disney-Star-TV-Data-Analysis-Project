@@ -1,0 +1,55 @@
+Unnamed: 0,Channel,Launched,Language,Category,SD_HD_4K_Availability,Notes,Average_Daily_Viewership_millions,Monthly_Active_Viewers_millions,Peak_Viewership_millions,Advertising_Revenue_million_USD,Subscription_Revenue_million_USD,Total_Annual_Revenue_million_USD,Average_Daily_Broadcast_Hours,Prime-Time_Broadcast_Hours_per_Day,Total_Subscribers_millions,Number_of_Unique_Programs_Shows,Number_of_Original_Productions,Average_Content_Rating_max_10,Annual_Growth_Rate_of_Viewership_Percentage
+0,Star Plus,1992,Hindi,General Entertainment,SD+HD,,4.5,27.39,15.85,463.44,142.09,605.53,21,2,199.91,11,1,6.8,-0.16
+1,Star Bharat,2017,Hindi,General Entertainment,SD+HD,Formerly Star One and Life OK,7.17,2.52,16.49,314.78,238,552.78,12,4,191.85,49,15,6.1,0.96
+2,Star Utsav,2004,Hindi,General Entertainment,SD,,1.63,18.93,8.23,480.79,17.84,498.63,16,3,91.74,30,7,5.2,14.07
+3,Star Utsav Movies,2016,Hindi,Movies,SD,,6.5,39.95,12.43,55.98,257.43,313.41,14,6,46.63,14,8,8.6,-4.12
+4,Star Gold,2000,Hindi,Movies,SD+HD,,8.8,34.24,14.75,160.34,288.77,449.11,19,5,150.02,16,18,6.8,0.63
+5,Star Gold 2,2020,Hindi,Movies,SD+HD,"Formerly Movies OK, UTV HD",4.64,38.29,15.62,378.58,288.54,667.12,19,7,183.17,26,14,9.5,8.42
+6,Star Gold Select,2017,Hindi,Movies,SD+HD,,8.06,25.08,7.58,196.44,94.54,290.98,20,3,157.79,20,9,5.8,15.09
+7,Star Gold Romance,2023,Hindi,Movies,SD,Formerly UTV Movies,5.58,3.18,18.66,280.34,120.58,400.92,17,5,154.85,7,11,5.6,13.79
+8,Star Gold Thrills,2023,Hindi,Movies,SD,Formerly UTV Action,4.94,3.78,13.35,322.09,208.93,531.02,16,6,85.33,35,16,7.7,11.07
+9,Bindass,2007,Hindi,Music,SD,,7.97,49.36,18.81,276.8,195.29,472.09,21,7,180.04,19,3,6,-3.36
+10,Star Sports 1 Hindi,2017,Hindi,Sports,SD+HD,Formerly Star Cricket,9.11,45.26,12.58,18.95,238.78,257.73,21,4,27.69,33,8,6.6,1.19
+11,Star Sports First,2017,Hindi,Sports,SD,,6.66,20.19,8.81,391.65,199.25,590.9,11,2,84.14,13,10,8.6,9.25
+12,Disney International HD,2017,English,General Entertainment,HD,,8.8,11.76,13.13,17.1,49.17,66.27,10,3,196.44,20,5,6.5,19.43
+13,Star Movies,1991,English,Movies,SD+HD,,4.81,12.95,17.07,171.76,100.16,271.92,14,4,47.41,34,10,5.8,13.04
+14,Star Movies Select,2015,English,Movies,SD+HD,,4.01,45.75,13.13,316.78,243.52,560.3,17,5,148.97,12,10,5.6,0
+15,Star Sports 1,1996,English,Sports,SD+HD,,1.37,23.98,9.79,154.98,36.97,191.95,15,5,136.05,46,6,8.2,16.47
+16,Star Sports 2,2013,English,Sports,SD+HD,,8.88,16.29,16.98,206.78,48.15,254.93,10,7,128.41,49,18,8,6.95
+17,Star Sports 3,2018,English,Sports,SD,Replaced Channel V,8.71,2.37,19.75,55.44,134.98,190.42,14,7,152.59,16,6,6.8,14.45
+18,Star Sports Select 1,2016,English,Sports,SD+HD,,5.57,15.6,11.16,477.39,30.48,507.87,10,7,159.88,9,6,6.7,16.3
+19,Star Sports Select 2,2016,English,Sports,SD+HD,,6.89,3.49,9.74,236.69,233.66,470.35,13,7,16.22,30,7,6.6,7.84
+20,Star Sports 4K,2024,English,Sports,4K,,8.11,38.58,12.07,261.4,170.66,432.06,14,3,10.71,8,14,8,2.33
+21,Hungama TV,2004,"Hindi, Tamil, Telugu",Kids,SD,,9.52,46.72,18.33,269.88,211.3,481.18,17,4,177,43,18,6.6,1.82
+22,Disney Channel,2004,"English, Hindi, Tamil, Telugu",Kids,SD+HD,,8.2,36.3,18.88,18.61,225.44,244.05,23,2,172.92,34,19,5.3,5.97
+23,Disney Junior,2012,"English, Hindi, Tamil, Telugu",Kids,SD,,2.16,21.45,18.86,53.83,258.11,311.94,23,6,103.98,11,17,5.3,2.01
+24,Super Hungama,2022,"English, Hindi, Tamil, Telugu",Kids,SD,"Formerly Toon Disney/ Jetix, Disney XD and Marvel HQ",1.79,41.43,11.05,177.66,226.32,403.98,20,7,9.68,46,8,6.7,13.6
+25,National Geographic,1998,"English, Hindi, Tamil, Bengali",Infotainment,SD+HD,,8.53,48.4,13.1,65.73,53.57,119.3,20,4,158.03,29,4,6.6,14.98
+26,Nat Geo Wild,2009,"English, Hindi, Tamil, Bengali",Infotainment,SD+HD,,1.32,16.43,11.47,197.76,279.77,477.53,22,3,35.21,28,18,8.7,5.28
+27,Star Life,2024,"English, Hindi, Tamil, Bengali",Lifestyle,SD+HD,Formerly Fox Life,4.25,47.47,10.37,299.58,97.01,396.59,17,5,163.8,33,18,7.9,2.14
+28,Star Jalsha,2008,Bengali,General Entertainment,SD+HD,,0.57,32.09,8.46,216.78,136.17,352.95,18,4,64.39,47,3,7,7.07
+29,Star Jalsha Movies,2012,Bengali,Movies,SD+HD,,2.84,19.39,18.92,382.4,126.73,509.13,21,3,33.91,43,19,6.3,19.9
+30,Star Pravah,2008,Marathi,General Entertainment,SD+HD,,4.44,43.95,9.85,69.55,41.84,111.39,11,2,10.45,24,19,7.3,2.04
+31,Star Pravah Picture,2022,Marathi,Movies,SD+HD,,2.81,8.46,9.76,146.35,21.14,167.49,12,7,162.76,6,4,6.9,17.95
+32,Star Kiran,2022,Odia,General Entertainment,SD+HD,,4.98,28.07,17.99,389.07,21.53,410.6,22,2,179.73,46,2,8.9,6.43
+33,Star Suvarna,2007,Kannada,General Entertainment,SD+HD,,0.65,6.42,14.48,263.5,14.3,277.8,10,4,128.84,12,19,7.3,7.3
+34,Star Suvarna Plus,2013,Kannada,Movies,SD,,8.46,18.43,9.55,51.9,132,183.9,16,2,131.16,20,5,7.4,15.16
+35,Star Sports 1 Kannada,2018,Kannada,Sports,SD,,1.1,46.88,6.97,75.77,70.59,146.36,17,6,125.81,20,8,9.9,14.92
+36,Asianet,1993,Malayalam,General Entertainment,SD+HD,,3.02,7.34,10.99,148.46,219.52,367.98,20,4,12.01,43,11,7,10.55
+37,Asianet Plus,2005,Malayalam,General Entertainment,SD,,2.26,11.61,17.38,157.86,287.39,445.25,11,2,51.63,44,8,9.5,-4.73
+38,Asianet Movies,2012,Malayalam,Movies,SD+HD,,2.77,4.48,10.22,258.08,158.19,416.27,15,7,56.68,21,14,6,17.4
+39,Star Vijay,1994,Tamil,General Entertainment,SD+HD,,9.96,33.92,10.32,74.8,176.13,250.93,13,2,53.69,24,19,5.3,14.66
+40,Star Vijay Super,2016,Tamil,Movies,SD+HD,,2.23,46.67,12,385.44,68.52,453.96,22,7,163.59,40,6,6,10.49
+41,Star Vijay Takkar,2022,Tamil,Youth Entertainment,SD,Replaced Star Vijay Music,9.1,39.89,6.38,296.8,252.8,549.6,16,7,182.23,17,12,8.9,19.02
+42,Star Sports 1 Tamil,2017,Tamil,Sports,SD+HD,,6.52,13.99,8,109.6,288.59,398.19,11,2,150.26,46,2,7.3,2.7
+43,Star Maa,2002,Telugu,General Entertainment,SD+HD,,9.04,23.77,5.77,467.59,12.33,479.92,15,4,184.05,41,9,9.3,-4.62
+44,Star Maa Movies,2011,Telugu,Movies,SD+HD,,7.64,36.07,8.68,431.71,296.05,727.76,20,2,131.59,36,10,5.3,8.09
+45,Star Maa Gold,2012,Telugu,Movies,SD,,4.81,9.32,17,380.75,171.52,552.27,22,4,192.28,6,17,8.9,10.26
+46,Star Maa Music,2008,Telugu,Music,SD,,4.89,41.35,8.82,276.85,226.4,503.25,18,2,60.16,38,12,8,14.54
+47,Star Sports 1 Telugu,2018,Telugu,Sports,SD+HD,,4.37,47.39,7.39,157.07,219.3,376.37,20,2,72.13,8,7,7.5,7.01
+48,Star Life,2018,English,General Entertainment,SD+HD,Africa Only,6.89,1.14,9.73,450.09,167.23,617.32,11,3,89.98,29,16,7.8,13.87
+49,Utsav Plus,2021,Hindi,General Entertainment,SD+HD,UK and EU Only,5.77,37.34,19.01,85.46,10.78,96.24,17,2,7.68,31,8,9.8,11.19
+50,Utsav Bharat,2021,Hindi,General Entertainment,SD+HD,UK and EU Only,6.24,29.23,7.28,117.4,192.36,309.76,23,7,53.47,9,13,7.3,15.06
+51,Utsav Gold,2021,Hindi,Movies,SD+HD,UK and EU Only,9.9,35.72,5.2,290.68,67.23,357.91,12,5,71.39,21,7,5.7,6.22
+52,Asianet Middle East,2010,Malayalam,General Entertainment,SD,Middle East Only,2.42,36.56,19.96,451.23,35.22,486.45,17,7,141.03,28,12,8.8,9.1
+53,Star Select,2023,Hindi,General Entertainment,HD,South Africa only,5.42,12.18,11.88,466.32,151.92,618.24,11,3,7.4,37,9,7.3,6.21
