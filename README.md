@@ -1,3 +1,4 @@
+# Disney Star TV Data Analysis Using Python, MySQL, Microsoft Excel and Microsoft Power BI
 A multi-stage project analyzing the Disney Star TV Network dataset, starting from data scraping and processing to building a dynamic Power BI dashboard. Here’s a breakdown of each step:
 Phase 1: Data Collection & Preprocessing Using the Pandas read_html() function, I quickly and efficiently scraped data directly from Wikipedia, avoiding the complexity of traditional web scraping tools. From there, I combined and enriched datasets, adding metrics like viewership, revenue, and broadcasting hours using NumPy to make the data more quantitative and ready for analysis.
 
